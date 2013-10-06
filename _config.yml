@@ -1,2 +1,2 @@
 name: Farly.Net
-pygments: true
+permalink: /blog/:month-:day-:year/:title.html
