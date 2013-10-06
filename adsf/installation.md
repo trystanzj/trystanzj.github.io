@@ -53,7 +53,7 @@ The Farly ADSF must be installed by root.
 
 Download the Farly ADSF tar.gz package.
 
-    wget http://github.com/trystanzj/Farly-ADSF/blob/master/farly-adsf.tar.gz
+    wget https://github.com/trystanzj/Farly-ADSF/raw/master/farly-adsf.tar.gz
 
 Extract the Farly ADSF tar.gz package.
 
