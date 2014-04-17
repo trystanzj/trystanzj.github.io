@@ -19,7 +19,7 @@ The requisite libraries and executables are:
 * db4
 * db4-devel
 
-The Farly ADSF uses the following non-core Perl core modules:
+The Farly ADSF uses the following non-core Perl modules:
 
 * BerkeleyDB
 * Parse::RecDescent
@@ -31,11 +31,11 @@ The Farly ADSF uses the following non-core Perl core modules:
 * Template
 * NetPacket::IP
 
-All dependencies will be installed automatically by the installer. The Farly ADSF installation program is an online installer which uses CPAN to automatically install all dependencies.
+Non-core Perl module dependencies will be installed automatically by the installer. The Farly ADSF installation program is an online installer which uses CPAN to automatically install all dependencies.
 
 ## Install Prerequisites
 
-The Farly ADSF requires Perl and the Oracle Berkeley DB libraries. The Farly ADSF installation program requires that the system be able to build and install Perl modules. On Linux a .C. compiler, .make. and .cpan. are required.
+The Farly ADSF requires Perl and the Oracle Berkeley DB libraries. The Farly ADSF installation program requires that the system be able to build and install Perl modules. On Linux a 'C' compiler, .make. and .cpan. are required.
 
 As *root* run the following command in the terminal.
 

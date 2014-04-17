@@ -7,7 +7,7 @@ category: adsf
 
 # Alerting
 
-The Farly ADSF scripts will only generate output if a firewall configuration issue is found.
+The Farly ADSF applications will only generate output if a firewall configuration issue is found.
 
 All Farly ADSF application output is printed to STDOUT. The STDOUT output can be collected and emailed to administrators. This requires a Mail Transfer Agent (MTA) to be running on the Farly ADSF server.
 

@@ -7,4 +7,4 @@ category: support
 
 # Mailing List
 
-Coming soon.
+If you are interested in subscribing to a "Farly" project mailing list please email at tjohnson@cpan.org.

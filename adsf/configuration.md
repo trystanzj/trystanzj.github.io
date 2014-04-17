@@ -14,7 +14,7 @@ Two applications form the basis of the Farly ADSF. These applications import the
 
 The Farly ADSF has two primary configuration files.
 
-* **/etc/farly/farly.conf**  Is the primary configuration file. It contains the database connection information and refers to the secondary configuration files.
+* **/etc/farly/farly.conf**  Is the primary configuration file. It contains the database connection information and refers to the secondary Farly ADSF configuration files.
 
 * **/etc/farly/logging.conf** Is a Log::Log4perl configuration file used by the Farly ADSF.
 
